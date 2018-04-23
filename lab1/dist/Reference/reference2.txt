@@ -1,0 +1,2 @@
+The correct command line format:
+triangle.exe <number> <number> <number>
